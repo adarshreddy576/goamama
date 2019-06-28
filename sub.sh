@@ -4,3 +4,5 @@ echo "the substraction programme starts"
 
 expr 22 - 5 
 expr 55 - 63
+
+expr 10-52
